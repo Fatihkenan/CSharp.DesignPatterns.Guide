@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="1_CreationalPatterns\AbstractFactory\" />
     <Folder Include="2_StructuralPatterns\" />
     <Folder Include="3_BehavioralPatterns\" />
   </ItemGroup>
