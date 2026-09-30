@@ -6,6 +6,7 @@
   </Folder>
   <Folder Name="/1_CreationalPatterns/BuilderDesignPattern/">
     <Project Path="Builder/Builder.csproj" />
+    <Project Path="BuilderDesignPatternExample/BuilderDesignPatternExample.csproj" Id="46b89dbf-9013-4248-bc36-3d45b62379ec" />
   </Folder>
   <Folder Name="/2_StructuralPatterns/" />
   <Folder Name="/3_BehavioralPatterns/" />
