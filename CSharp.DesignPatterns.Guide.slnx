@@ -1,3 +1,12 @@
 <Solution>
-  <Project Path="CSharp.DesignPatterns.Guide.csproj" />
+  <Folder Name="/1_CreationalPatterns/" />
+  <Folder Name="/1_CreationalPatterns/AbstractFactoryDesignPattern/">
+    <Project Path="../AbstractFactoryDP/AbstractFactory.csproj" Id="f6a79580-0408-4d93-b2ca-f68adcff03e1" />
+    <Project Path="../AbstractFactoryExample/AbstractFactoryExample.csproj" Id="435efce5-c300-4540-901e-5fdd674fd8e4" />
+  </Folder>
+  <Folder Name="/1_CreationalPatterns/BuilderDesignPattern/">
+    <Project Path="../Builder/Builder.csproj" Id="1739dbae-1f45-46b7-9261-fa5080797e49" />
+  </Folder>
+  <Folder Name="/2_StructuralPatterns/" />
+  <Folder Name="/3_BehavioralPatterns/" />
 </Solution>
