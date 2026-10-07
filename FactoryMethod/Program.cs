@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using FactoryMethod;
+
+WebSiteFactory factory = new WebSiteCommerceFactory();
+factory.CreateWebSite().CreatePages();
